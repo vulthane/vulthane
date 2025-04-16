@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">🔭 I'm currently working on Prestashop and Next.js<br>👯 I'm looking to collaborate on creative and innovative projects<br>🤔 I'm startinf to learn Three.js, Framer and golang.<br>💬 Ask me about Front-end or video games, I could talk about it for hours</p>
+<p align="left">🔭 I'm currently working on Prestashop and Next.js<br>👯 I'm looking to collaborate on creative and innovative projects<br>🤔 I'm starting to learn Three.js, Framer and golang.<br>💬 Ask me about Front-end or video games, I could talk about it for hours</p>
 
 ###
 
